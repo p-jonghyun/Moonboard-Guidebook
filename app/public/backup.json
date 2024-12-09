@@ -1,0 +1,4292 @@
+[
+    {
+        "id": 184714,
+        "mb_type": 0,
+        "name": "\u8d85\u7d76\u6280\u5de7",
+        "setter": "Takuto Koshiba",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 18962,
+        "date_created": "2017-05-16T06:21:55.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "F14",
+            "H10",
+            "I14"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.853,
+        "sandbag_score": -1.3796212804328256,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            3064,
+            15673,
+            202,
+            24,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.256,
+        "user_stars_breakdown": [
+            331,
+            433,
+            337,
+            1160,
+            7381,
+            9315
+        ],
+        "avg_user_attempts": 1.46,
+        "user_attempts_breakdown": [
+            73,
+            14,
+            7,
+            6
+        ]
+    },
+    {
+        "id": 148169,
+        "mb_type": 0,
+        "name": "Whaaaat",
+        "setter": "Michael Montella",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5251,
+        "date_created": "2017-03-25T01:42:15.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "J5",
+            "G2"
+        ],
+        "mid_holds": [
+            "H10",
+            "G13",
+            "I14",
+            "E15",
+            "F7"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.7289,
+        "sandbag_score": -2.5910652920962196,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1892,
+            3060,
+            145,
+            153,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.016,
+        "user_stars_breakdown": [
+            68,
+            177,
+            232,
+            763,
+            1897,
+            2115
+        ],
+        "avg_user_attempts": 1.2,
+        "user_attempts_breakdown": [
+            87,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "id": 142730,
+        "mb_type": 0,
+        "name": "Vortex original",
+        "setter": "Yasu Toma",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 10762,
+        "date_created": "2017-03-17T14:19:58.000Z",
+        "holdsets": [
+            0,
+            1
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "I11",
+            "I12",
+            "I13",
+            "F14",
+            "J8"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.9713,
+        "sandbag_score": -0.22571148184495016,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            686,
+            9763,
+            266,
+            48,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.353,
+        "user_stars_breakdown": [
+            166,
+            211,
+            142,
+            481,
+            3890,
+            5863
+        ],
+        "avg_user_attempts": 1.7,
+        "user_attempts_breakdown": [
+            62,
+            17,
+            10,
+            11
+        ]
+    },
+    {
+        "id": 181435,
+        "mb_type": 0,
+        "name": "DES GROS CUTLOOSE PAS RAP",
+        "setter": "Jean-claude Savard",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4523,
+        "date_created": "2017-05-11T03:01:30.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "I4"
+        ],
+        "mid_holds": [
+            "E8",
+            "F11",
+            "C13"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.074,
+        "sandbag_score": 0.7757805108798443,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            173,
+            3969,
+            272,
+            105,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.332,
+        "user_stars_breakdown": [
+            58,
+            89,
+            77,
+            247,
+            1650,
+            2400
+        ],
+        "avg_user_attempts": 1.81,
+        "user_attempts_breakdown": [
+            58,
+            17,
+            11,
+            14
+        ]
+    },
+    {
+        "id": 196769,
+        "mb_type": 0,
+        "name": "MOON CASTLE",
+        "setter": "Ben Moon",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 11097,
+        "date_created": "2017-06-01T10:29:38.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "I5",
+            "K5"
+        ],
+        "mid_holds": [
+            "B13",
+            "D10",
+            "E12",
+            "E16",
+            "G9"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.0307,
+        "sandbag_score": 0.40314650934120344,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            379,
+            10178,
+            390,
+            152,
+            2,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.386,
+        "user_stars_breakdown": [
+            204,
+            156,
+            136,
+            507,
+            3750,
+            6340
+        ],
+        "avg_user_attempts": 1.851,
+        "user_attempts_breakdown": [
+            56,
+            18,
+            13,
+            14
+        ]
+    },
+    {
+        "id": 201921,
+        "mb_type": 0,
+        "name": "YOURS",
+        "setter": "Felicity Holt",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 8771,
+        "date_created": "2017-06-08T11:30:44.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "B6",
+            "C5"
+        ],
+        "mid_holds": [
+            "E7",
+            "E8",
+            "H16",
+            "I10",
+            "I11",
+            "J13"
+        ],
+        "end_holds": [
+            "K18"
+        ],
+        "avg_user_grade": 5.053,
+        "sandbag_score": 0.6685768863419295,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            348,
+            7809,
+            445,
+            162,
+            4,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.333,
+        "user_stars_breakdown": [
+            154,
+            212,
+            112,
+            388,
+            3111,
+            4782
+        ],
+        "avg_user_attempts": 1.778,
+        "user_attempts_breakdown": [
+            59,
+            16,
+            11,
+            13
+        ]
+    },
+    {
+        "id": 170230,
+        "mb_type": 0,
+        "name": "GRIFETE HANDS",
+        "setter": "edu moya",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 10378,
+        "date_created": "2017-04-25T09:51:04.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "K9",
+            "H11",
+            "F14",
+            "H16"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9671,
+        "sandbag_score": -0.2686567164179099,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            598,
+            9573,
+            173,
+            36,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.321,
+        "user_stars_breakdown": [
+            110,
+            163,
+            167,
+            604,
+            4135,
+            5195
+        ],
+        "avg_user_attempts": 1.51,
+        "user_attempts_breakdown": [
+            71,
+            14,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 139394,
+        "mb_type": 0,
+        "name": "ATAUALPA",
+        "setter": "Ale Alekos",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 27719,
+        "date_created": "2017-03-13T15:14:54.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "F14",
+            "H11",
+            "I11",
+            "I16",
+            "J8"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.768,
+        "sandbag_score": -2.21859706362153,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            6802,
+            20629,
+            271,
+            17,
+            2,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            0,
+            3,
+            0
+        ],
+        "avg_user_stars": 4.176,
+        "user_stars_breakdown": [
+            865,
+            545,
+            522,
+            1652,
+            11455,
+            12669
+        ],
+        "avg_user_attempts": 1.35,
+        "user_attempts_breakdown": [
+            80,
+            10,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 300214,
+        "mb_type": 0,
+        "name": "FAMILY MAN",
+        "setter": "Riccardo Caprasecca",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5587,
+        "date_created": "2017-10-15T15:55:43.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "H5",
+            "J5"
+        ],
+        "mid_holds": [
+            "B15",
+            "E12",
+            "E14",
+            "I10"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.2808,
+        "sandbag_score": 2.8010033444816074,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            128,
+            4359,
+            601,
+            443,
+            44,
+            7,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "avg_user_stars": 4.291,
+        "user_stars_breakdown": [
+            88,
+            209,
+            79,
+            263,
+            1919,
+            3024
+        ],
+        "avg_user_attempts": 1.98,
+        "user_attempts_breakdown": [
+            51,
+            18,
+            13,
+            18
+        ]
+    },
+    {
+        "id": 274947,
+        "mb_type": 0,
+        "name": "LE UOVA SODE",
+        "setter": "Ale Alekos",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 21005,
+        "date_created": "2017-09-18T13:33:09.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "E13",
+            "I10",
+            "I12",
+            "I14",
+            "J8"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 4.8956,
+        "sandbag_score": -0.9608208955223851,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            2631,
+            18019,
+            319,
+            41,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "avg_user_stars": 4.222,
+        "user_stars_breakdown": [
+            604,
+            373,
+            330,
+            1190,
+            8448,
+            10055
+        ],
+        "avg_user_attempts": 1.57,
+        "user_attempts_breakdown": [
+            69,
+            14,
+            8,
+            9
+        ]
+    },
+    {
+        "id": 125131,
+        "mb_type": 0,
+        "name": "Just another day",
+        "setter": "Reuben Mardan",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 24286,
+        "date_created": "2017-02-23T06:31:05.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5",
+            "J5"
+        ],
+        "mid_holds": [
+            "J8",
+            "K11",
+            "I12",
+            "I14",
+            "E15"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.9168,
+        "sandbag_score": -0.7699619771863109,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            2565,
+            21261,
+            409,
+            49,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.261,
+        "user_stars_breakdown": [
+            857,
+            289,
+            311,
+            1171,
+            9218,
+            12432
+        ],
+        "avg_user_attempts": 1.677,
+        "user_attempts_breakdown": [
+            62,
+            17,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 19766,
+        "mb_type": 0,
+        "name": "ELANOMOUS",
+        "setter": "Andrew Smythe",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 7170,
+        "date_created": "2016-03-24T23:01:21.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "B3"
+        ],
+        "mid_holds": [
+            "C7",
+            "C10",
+            "F14",
+            "F11",
+            "I16"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 4.9837,
+        "sandbag_score": 0.0,
+        "user_grade_breakdown": [
+            0,
+            0,
+            2,
+            1,
+            363,
+            6607,
+            159,
+            38,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.275,
+        "user_stars_breakdown": [
+            79,
+            145,
+            136,
+            477,
+            2862,
+            3469
+        ],
+        "avg_user_attempts": 1.51,
+        "user_attempts_breakdown": [
+            71,
+            14,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 256493,
+        "mb_type": 0,
+        "name": "THE OLD MAN AND THE BOARD",
+        "setter": "Christopher Pattberg",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5124,
+        "date_created": "2017-08-25T17:54:37.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "E10",
+            "I13",
+            "E15",
+            "D17"
+        ],
+        "end_holds": [
+            "B18"
+        ],
+        "avg_user_grade": 5.1242,
+        "sandbag_score": 1.3711151736745908,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            166,
+            4404,
+            359,
+            182,
+            13,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "avg_user_stars": 4.306,
+        "user_stars_breakdown": [
+            74,
+            113,
+            87,
+            246,
+            1976,
+            2623
+        ],
+        "avg_user_attempts": 1.82,
+        "user_attempts_breakdown": [
+            58,
+            17,
+            10,
+            15
+        ]
+    },
+    {
+        "id": 121194,
+        "mb_type": 0,
+        "name": "SWITCHEROO",
+        "setter": "Alfred Wold Oftebro",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6581,
+        "date_created": "2017-02-18T11:06:34.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "J8",
+            "I11",
+            "H12",
+            "F14",
+            "H16"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9707,
+        "sandbag_score": -0.23162134944612056,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            334,
+            6143,
+            87,
+            16,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.335,
+        "user_stars_breakdown": [
+            15,
+            67,
+            130,
+            440,
+            2764,
+            3164
+        ],
+        "avg_user_attempts": 1.49,
+        "user_attempts_breakdown": [
+            71,
+            15,
+            8,
+            6
+        ]
+    },
+    {
+        "id": 27102,
+        "mb_type": 0,
+        "name": "Maffei",
+        "setter": "Riccardo Caprasecca",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4623,
+        "date_created": "2016-07-14T16:42:08.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "J5"
+        ],
+        "mid_holds": [
+            "E12",
+            "A14",
+            "E8"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.2263,
+        "sandbag_score": 2.330762639245929,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            117,
+            3703,
+            492,
+            286,
+            25,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.445,
+        "user_stars_breakdown": [
+            54,
+            86,
+            58,
+            223,
+            1331,
+            2871
+        ],
+        "avg_user_attempts": 1.94,
+        "user_attempts_breakdown": [
+            53,
+            17,
+            13,
+            17
+        ]
+    },
+    {
+        "id": 360635,
+        "mb_type": 0,
+        "name": "ATTILALALA",
+        "setter": "Simon Sj\u00f6strand",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 5508,
+        "date_created": "2020-01-17T18:48:43.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "I10",
+            "E12",
+            "I14",
+            "H16",
+            "K7"
+        ],
+        "end_holds": [
+            "K18"
+        ],
+        "avg_user_grade": 4.9697,
+        "sandbag_score": -0.12195121951219079,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            498,
+            4762,
+            183,
+            67,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.268,
+        "user_stars_breakdown": [
+            25,
+            38,
+            205,
+            755,
+            1630,
+            2858
+        ],
+        "avg_user_attempts": 1.525,
+        "user_attempts_breakdown": [
+            70,
+            16,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 399507,
+        "mb_type": 0,
+        "name": "COMME NEIGE AU SOLEIL",
+        "setter": "Michael Lauer",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 7715,
+        "date_created": "2021-04-18T10:54:09.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "F10",
+            "E10",
+            "E13",
+            "B16"
+        ],
+        "end_holds": [
+            "B18"
+        ],
+        "avg_user_grade": 4.9892,
+        "sandbag_score": -0.028929604628737948,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            491,
+            6916,
+            238,
+            71,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.212,
+        "user_stars_breakdown": [
+            26,
+            93,
+            231,
+            815,
+            3253,
+            3300
+        ],
+        "avg_user_attempts": 1.6,
+        "user_attempts_breakdown": [
+            67,
+            15,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 124553,
+        "mb_type": 0,
+        "name": "SLAB TRAINING",
+        "setter": "erik massih",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6854,
+        "date_created": "2017-02-22T15:40:10.000Z",
+        "holdsets": [
+            0,
+            2
+        ],
+        "start_holds": [
+            "G4"
+        ],
+        "mid_holds": [
+            "A9",
+            "A14",
+            "C12",
+            "E6",
+            "E8",
+            "E14"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.0105,
+        "sandbag_score": 0.10689990281827377,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            411,
+            6145,
+            181,
+            63,
+            55,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.311,
+        "user_stars_breakdown": [
+            70,
+            147,
+            119,
+            383,
+            2657,
+            3474
+        ],
+        "avg_user_attempts": 1.535,
+        "user_attempts_breakdown": [
+            70,
+            15,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 268943,
+        "mb_type": 0,
+        "name": "YOU'RE AMAZING",
+        "setter": "Jacob Lindroos",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 9360,
+        "date_created": "2017-09-11T09:51:12.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "A5",
+            "D6"
+        ],
+        "mid_holds": [
+            "E8",
+            "D10",
+            "H11",
+            "F14"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 4.9283,
+        "sandbag_score": -0.673828125,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            802,
+            8453,
+            96,
+            12,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.292,
+        "user_stars_breakdown": [
+            59,
+            74,
+            192,
+            690,
+            4078,
+            4268
+        ],
+        "avg_user_attempts": 1.396,
+        "user_attempts_breakdown": [
+            77,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "id": 57470,
+        "mb_type": 0,
+        "name": "BUTOLOGIA",
+        "setter": "nicholas farenzena",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 4733,
+        "date_created": "2016-11-08T19:15:19.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "E10",
+            "J9",
+            "I13",
+            "G15"
+        ],
+        "end_holds": [
+            "K18"
+        ],
+        "avg_user_grade": 4.9493,
+        "sandbag_score": -0.18018018018017834,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1125,
+            2918,
+            534,
+            135,
+            16,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.248,
+        "user_stars_breakdown": [
+            84,
+            181,
+            78,
+            225,
+            1729,
+            2432
+        ],
+        "avg_user_attempts": 1.91,
+        "user_attempts_breakdown": [
+            56,
+            15,
+            11,
+            18
+        ]
+    },
+    {
+        "id": 41029,
+        "mb_type": 0,
+        "name": "Boulderwelt",
+        "setter": "Ben Moon",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4189,
+        "date_created": "2016-09-20T16:24:59.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "E7",
+            "H10",
+            "E14"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.1565,
+        "sandbag_score": 1.6187050359712263,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            137,
+            3513,
+            329,
+            185,
+            23,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.333,
+        "user_stars_breakdown": [
+            70,
+            119,
+            59,
+            220,
+            1352,
+            2368
+        ],
+        "avg_user_attempts": 2.03,
+        "user_attempts_breakdown": [
+            51,
+            16,
+            12,
+            21
+        ]
+    },
+    {
+        "id": 41190,
+        "mb_type": 0,
+        "name": "FLASHING STYLES FOR YOU",
+        "setter": "Bhetrick",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 4220,
+        "date_created": "2016-09-20T22:51:03.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5",
+            "I6"
+        ],
+        "mid_holds": [
+            "H9",
+            "K11",
+            "J14",
+            "K16"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.1139,
+        "sandbag_score": 1.3251961639058418,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            264,
+            3419,
+            369,
+            152,
+            15,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.306,
+        "user_stars_breakdown": [
+            19,
+            108,
+            88,
+            242,
+            1655,
+            2108
+        ],
+        "avg_user_attempts": 1.83,
+        "user_attempts_breakdown": [
+            57,
+            17,
+            12,
+            14
+        ]
+    },
+    {
+        "id": 66038,
+        "mb_type": 0,
+        "name": "PE3/1",
+        "setter": "Nick Churchill",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 8056,
+        "date_created": "2016-11-28T08:27:59.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "E8",
+            "E12",
+            "F14",
+            "F10",
+            "I13",
+            "J8"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.0262,
+        "sandbag_score": 0.24295432458697697,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            416,
+            7222,
+            228,
+            186,
+            4,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.365,
+        "user_stars_breakdown": [
+            93,
+            115,
+            115,
+            427,
+            2993,
+            4310
+        ],
+        "avg_user_attempts": 1.54,
+        "user_attempts_breakdown": [
+            69,
+            15,
+            9,
+            7
+        ]
+    },
+    {
+        "id": 27394,
+        "mb_type": 0,
+        "name": "Under the walnut tree",
+        "setter": "Maarten Blomme",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 3559,
+        "date_created": "2016-07-16T15:16:07.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "A5",
+            "C5"
+        ],
+        "mid_holds": [
+            "A9",
+            "E11",
+            "D11",
+            "I14",
+            "G15",
+            "K9"
+        ],
+        "end_holds": [
+            "K18"
+        ],
+        "avg_user_grade": 5.3018,
+        "sandbag_score": 3.2315112540192903,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            75,
+            2719,
+            439,
+            294,
+            30,
+            2,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.349,
+        "user_stars_breakdown": [
+            39,
+            92,
+            55,
+            202,
+            1186,
+            1985
+        ],
+        "avg_user_attempts": 2.212,
+        "user_attempts_breakdown": [
+            44,
+            16,
+            13,
+            26
+        ]
+    },
+    {
+        "id": 39242,
+        "mb_type": 0,
+        "name": "Low Carb Var",
+        "setter": "Ben Moon",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4878,
+        "date_created": "2016-09-14T13:50:09.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "G8",
+            "D9",
+            "H11",
+            "E13",
+            "B16"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.1227,
+        "sandbag_score": 1.2604263206672872,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            133,
+            4218,
+            356,
+            159,
+            12,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.359,
+        "user_stars_breakdown": [
+            57,
+            108,
+            74,
+            252,
+            1680,
+            2704
+        ],
+        "avg_user_attempts": 2.02,
+        "user_attempts_breakdown": [
+            51,
+            16,
+            13,
+            20
+        ]
+    },
+    {
+        "id": 54384,
+        "mb_type": 0,
+        "name": "HOLD THE SWING",
+        "setter": "Duncan Brown",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5026,
+        "date_created": "2016-10-31T03:30:33.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "J5",
+            "E6"
+        ],
+        "mid_holds": [
+            "G9",
+            "E12",
+            "I14",
+            "E14"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.0093,
+        "sandbag_score": 0.13958125623130258,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            198,
+            4654,
+            137,
+            34,
+            3,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.369,
+        "user_stars_breakdown": [
+            42,
+            82,
+            76,
+            263,
+            1881,
+            2681
+        ],
+        "avg_user_attempts": 1.61,
+        "user_attempts_breakdown": [
+            66,
+            16,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 46508,
+        "mb_type": 0,
+        "name": "Double Cross",
+        "setter": "Kyle Knapp",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 3923,
+        "date_created": "2016-10-09T14:02:06.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "G6",
+            "E8",
+            "B10",
+            "D12",
+            "E15",
+            "I16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.2961,
+        "sandbag_score": 3.095823095823098,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            76,
+            3041,
+            453,
+            305,
+            41,
+            5,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.314,
+        "user_stars_breakdown": [
+            42,
+            142,
+            64,
+            202,
+            1314,
+            2157
+        ],
+        "avg_user_attempts": 2.426,
+        "user_attempts_breakdown": [
+            37,
+            16,
+            16,
+            32
+        ]
+    },
+    {
+        "id": 36667,
+        "mb_type": 0,
+        "name": "Biggy smalls",
+        "setter": "Alex Arroyo",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 14940,
+        "date_created": "2016-09-04T15:15:04.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "H10",
+            "F14",
+            "G17"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9187,
+        "sandbag_score": -0.7400379506641386,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1562,
+            13120,
+            219,
+            42,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "avg_user_stars": 4.291,
+        "user_stars_breakdown": [
+            314,
+            278,
+            237,
+            750,
+            5695,
+            7663
+        ],
+        "avg_user_attempts": 1.594,
+        "user_attempts_breakdown": [
+            68,
+            15,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 26620,
+        "mb_type": 0,
+        "name": "JENS A WATCHING",
+        "setter": "Bhetrick",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": true,
+        "repeats": 3318,
+        "date_created": "2016-07-10T21:26:19.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "G2",
+            "E6"
+        ],
+        "mid_holds": [
+            "I12",
+            "E15",
+            "F7",
+            "C10"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.2148,
+        "sandbag_score": 2.405498281786942,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            80,
+            2731,
+            272,
+            205,
+            25,
+            2,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.326,
+        "user_stars_breakdown": [
+            14,
+            79,
+            63,
+            225,
+            1211,
+            1725
+        ],
+        "avg_user_attempts": 2.099,
+        "user_attempts_breakdown": [
+            48,
+            17,
+            14,
+            22
+        ]
+    },
+    {
+        "id": 19233,
+        "mb_type": 0,
+        "name": "PROBLEM 19",
+        "setter": "lucas Dourdourekas",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 3016,
+        "date_created": "2016-03-01T10:00:13.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "J5"
+        ],
+        "mid_holds": [
+            "D15",
+            "E12",
+            "F11",
+            "G9",
+            "H8"
+        ],
+        "end_holds": [
+            "A18"
+        ],
+        "avg_user_grade": 5.2604,
+        "sandbag_score": 2.875924404272805,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            65,
+            2401,
+            319,
+            193,
+            35,
+            2,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.249,
+        "user_stars_breakdown": [
+            32,
+            114,
+            56,
+            183,
+            1116,
+            1515
+        ],
+        "avg_user_attempts": 2.212,
+        "user_attempts_breakdown": [
+            45,
+            15,
+            12,
+            27
+        ]
+    },
+    {
+        "id": 29901,
+        "mb_type": 0,
+        "name": "RUSTY MORNING",
+        "setter": "Brendan Leader",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 4293,
+        "date_created": "2016-08-02T14:41:08.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "C5",
+            "E6"
+        ],
+        "mid_holds": [
+            "E8",
+            "I10",
+            "H12",
+            "I14",
+            "E14",
+            "E16"
+        ],
+        "end_holds": [
+            "A18"
+        ],
+        "avg_user_grade": 5.0561,
+        "sandbag_score": 0.9696569920844311,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            922,
+            2541,
+            554,
+            242,
+            27,
+            2,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.255,
+        "user_stars_breakdown": [
+            57,
+            195,
+            67,
+            198,
+            1530,
+            2239
+        ],
+        "avg_user_attempts": 2.06,
+        "user_attempts_breakdown": [
+            51,
+            15,
+            11,
+            23
+        ]
+    },
+    {
+        "id": 79777,
+        "mb_type": 0,
+        "name": "WAITING FOR HARDTIMES",
+        "setter": "James Lucas",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4552,
+        "date_created": "2016-12-23T20:15:46.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "G4",
+            "J5"
+        ],
+        "mid_holds": [
+            "E8",
+            "B10",
+            "E13",
+            "E16",
+            "E6"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.0259,
+        "sandbag_score": 0.3685258964143401,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            125,
+            4238,
+            149,
+            40,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.263,
+        "user_stars_breakdown": [
+            14,
+            86,
+            89,
+            313,
+            2047,
+            2002
+        ],
+        "avg_user_attempts": 1.68,
+        "user_attempts_breakdown": [
+            64,
+            15,
+            10,
+            11
+        ]
+    },
+    {
+        "id": 80802,
+        "mb_type": 0,
+        "name": "WRECKONIZE",
+        "setter": "Pawel Paraskiewas",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5197,
+        "date_created": "2016-12-26T13:33:15.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "J5"
+        ],
+        "mid_holds": [
+            "F13",
+            "G8",
+            "I10",
+            "K14"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.06,
+        "sandbag_score": 0.6909788867562394,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            186,
+            4643,
+            271,
+            92,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.277,
+        "user_stars_breakdown": [
+            71,
+            148,
+            83,
+            267,
+            2028,
+            2601
+        ],
+        "avg_user_attempts": 1.92,
+        "user_attempts_breakdown": [
+            53,
+            18,
+            13,
+            16
+        ]
+    },
+    {
+        "id": 30524,
+        "mb_type": 0,
+        "name": "THE SENDTRAIN",
+        "setter": "Ben Rankin",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5125,
+        "date_created": "2016-08-06T04:41:39.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "G4"
+        ],
+        "mid_holds": [
+            "E12",
+            "G6",
+            "G9",
+            "G15",
+            "I14",
+            "J7"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.0242,
+        "sandbag_score": 0.37109375,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            204,
+            4657,
+            215,
+            48,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.319,
+        "user_stars_breakdown": [
+            58,
+            114,
+            64,
+            299,
+            1955,
+            2633
+        ],
+        "avg_user_attempts": 1.8,
+        "user_attempts_breakdown": [
+            58,
+            17,
+            12,
+            13
+        ]
+    },
+    {
+        "id": 102018,
+        "mb_type": 0,
+        "name": "PURGATORY",
+        "setter": "Jonath Williams",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 9464,
+        "date_created": "2017-01-24T21:06:37.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5",
+            "G2"
+        ],
+        "mid_holds": [
+            "B10",
+            "E8",
+            "E12",
+            "F14",
+            "I8",
+            "I16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 4.9454,
+        "sandbag_score": -0.4794520547945247,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            726,
+            8568,
+            146,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.293,
+        "user_stars_breakdown": [
+            98,
+            188,
+            159,
+            574,
+            3818,
+            4624
+        ],
+        "avg_user_attempts": 1.5,
+        "user_attempts_breakdown": [
+            72,
+            13,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 35345,
+        "mb_type": 0,
+        "name": "FIRST SET: PINCH 'N' INCH",
+        "setter": "Melissa Clements ",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 13213,
+        "date_created": "2016-08-30T14:58:03.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "C8",
+            "C10",
+            "E14",
+            "G9",
+            "G13"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.0496,
+        "sandbag_score": 0.31905195989061497,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1093,
+            11016,
+            527,
+            572,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6,
+            0
+        ],
+        "avg_user_stars": 4.215,
+        "user_stars_breakdown": [
+            340,
+            311,
+            218,
+            703,
+            5367,
+            6271
+        ],
+        "avg_user_attempts": 1.61,
+        "user_attempts_breakdown": [
+            66,
+            16,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 34005,
+        "mb_type": 0,
+        "name": "ACG30",
+        "setter": "bkkim",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 15157,
+        "date_created": "2016-08-24T13:01:35.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "C5",
+            "G6"
+        ],
+        "mid_holds": [
+            "D11",
+            "E8",
+            "F11",
+            "G15",
+            "I14"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 4.9879,
+        "sandbag_score": -0.04863813229571967,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            936,
+            13627,
+            462,
+            123,
+            7,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.271,
+        "user_stars_breakdown": [
+            560,
+            265,
+            187,
+            608,
+            5402,
+            8128
+        ],
+        "avg_user_attempts": 1.75,
+        "user_attempts_breakdown": [
+            60,
+            17,
+            11,
+            12
+        ]
+    },
+    {
+        "id": 89571,
+        "mb_type": 0,
+        "name": "ACG6 was too hard",
+        "setter": "Brian Kim",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 8143,
+        "date_created": "2017-01-08T21:28:23.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "H5",
+            "K5"
+        ],
+        "mid_holds": [
+            "H10",
+            "C13",
+            "E16"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.0252,
+        "sandbag_score": 0.3039215686274499,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            337,
+            7401,
+            283,
+            118,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.372,
+        "user_stars_breakdown": [
+            107,
+            170,
+            99,
+            397,
+            2802,
+            4564
+        ],
+        "avg_user_attempts": 1.778,
+        "user_attempts_breakdown": [
+            58,
+            17,
+            12,
+            12
+        ]
+    },
+    {
+        "id": 20451,
+        "mb_type": 0,
+        "name": "ACG4",
+        "setter": "bkkim",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 8861,
+        "date_created": "2016-04-08T06:57:16.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "F5",
+            "G2"
+        ],
+        "mid_holds": [
+            "B8",
+            "D12",
+            "E15"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.0326,
+        "sandbag_score": 0.43977055449330393,
+        "user_grade_breakdown": [
+            0,
+            1,
+            0,
+            0,
+            423,
+            7908,
+            368,
+            154,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.296,
+        "user_stars_breakdown": [
+            215,
+            232,
+            124,
+            386,
+            3090,
+            4807
+        ],
+        "avg_user_attempts": 1.83,
+        "user_attempts_breakdown": [
+            57,
+            17,
+            12,
+            14
+        ]
+    },
+    {
+        "id": 23803,
+        "mb_type": 0,
+        "name": "Float Like A Butterfly",
+        "setter": "Kyle Knapp",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5438,
+        "date_created": "2016-06-04T11:33:29.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "A5",
+            "D5"
+        ],
+        "mid_holds": [
+            "B8",
+            "C10",
+            "H11",
+            "E15"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 4.9414,
+        "sandbag_score": -0.141369047619051,
+        "user_grade_breakdown": [
+            0,
+            0,
+            2,
+            1,
+            1166,
+            3583,
+            551,
+            122,
+            9,
+            3,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.357,
+        "user_stars_breakdown": [
+            96,
+            98,
+            76,
+            274,
+            1844,
+            3047
+        ],
+        "avg_user_attempts": 2.02,
+        "user_attempts_breakdown": [
+            51,
+            16,
+            13,
+            20
+        ]
+    },
+    {
+        "id": 110330,
+        "mb_type": 0,
+        "name": "SURESHOT",
+        "setter": "Danny Hupp",
+        "grade": 5,
+        "upgraded": true,
+        "downgraded": false,
+        "repeats": 4931,
+        "date_created": "2017-02-04T20:03:49.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "J5",
+            "G9",
+            "F11",
+            "J13",
+            "H16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 4.9433,
+        "sandbag_score": -0.30669895076674614,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            863,
+            3619,
+            341,
+            103,
+            4,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.322,
+        "user_stars_breakdown": [
+            58,
+            123,
+            66,
+            247,
+            1870,
+            2568
+        ],
+        "avg_user_attempts": 1.91,
+        "user_attempts_breakdown": [
+            54,
+            17,
+            13,
+            16
+        ]
+    },
+    {
+        "id": 20735,
+        "mb_type": 0,
+        "name": "ARIGGARI",
+        "setter": "KoalaClimbing",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4850,
+        "date_created": "2016-04-13T04:31:26.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "B11",
+            "C13",
+            "F9",
+            "I14"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.0796,
+        "sandbag_score": 0.9716981132075464,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            142,
+            4320,
+            270,
+            113,
+            5,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.362,
+        "user_stars_breakdown": [
+            49,
+            101,
+            79,
+            248,
+            1711,
+            2660
+        ],
+        "avg_user_attempts": 1.77,
+        "user_attempts_breakdown": [
+            59,
+            17,
+            12,
+            12
+        ]
+    },
+    {
+        "id": 113385,
+        "mb_type": 0,
+        "name": "FOUNDRY COMP HARD 2",
+        "setter": "haydn jones",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6476,
+        "date_created": "2017-02-08T17:50:56.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "G6",
+            "K5"
+        ],
+        "mid_holds": [
+            "B10",
+            "E12",
+            "E15",
+            "G9",
+            "I16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.0573,
+        "sandbag_score": 0.6737247353224252,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            217,
+            5799,
+            350,
+            109,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.336,
+        "user_stars_breakdown": [
+            60,
+            165,
+            99,
+            310,
+            2425,
+            3417
+        ],
+        "avg_user_attempts": 1.901,
+        "user_attempts_breakdown": [
+            55,
+            17,
+            13,
+            16
+        ]
+    },
+    {
+        "id": 45182,
+        "mb_type": 0,
+        "name": "BANANARAMA",
+        "setter": "Blake Lehmans",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 16032,
+        "date_created": "2016-10-05T00:24:42.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "B10",
+            "E8",
+            "E12",
+            "E15"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 4.9609,
+        "sandbag_score": -0.32196969696969724,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1375,
+            13979,
+            629,
+            51,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.288,
+        "user_stars_breakdown": [
+            339,
+            236,
+            242,
+            831,
+            6382,
+            7996
+        ],
+        "avg_user_attempts": 1.53,
+        "user_attempts_breakdown": [
+            71,
+            13,
+            8,
+            8
+        ]
+    },
+    {
+        "id": 41542,
+        "mb_type": 0,
+        "name": "SOURKRAWT",
+        "setter": "Kyle Knapp",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 7932,
+        "date_created": "2016-09-21T22:27:54.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "F14",
+            "H10"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 4.9469,
+        "sandbag_score": -0.46889952153110315,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            691,
+            7042,
+            154,
+            43,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.317,
+        "user_stars_breakdown": [
+            79,
+            213,
+            148,
+            439,
+            2842,
+            4207
+        ],
+        "avg_user_attempts": 1.63,
+        "user_attempts_breakdown": [
+            66,
+            15,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 24641,
+        "mb_type": 0,
+        "name": "GRAB THE D",
+        "setter": "Martin Heald",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6120,
+        "date_created": "2016-06-20T20:03:26.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "K6",
+            "H5"
+        ],
+        "mid_holds": [
+            "E13",
+            "F15",
+            "J8",
+            "H11"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9739,
+        "sandbag_score": -0.08937437934458892,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            1,
+            314,
+            5686,
+            98,
+            20,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.278,
+        "user_stars_breakdown": [
+            53,
+            82,
+            102,
+            435,
+            2647,
+            2801
+        ],
+        "avg_user_attempts": 1.49,
+        "user_attempts_breakdown": [
+            72,
+            14,
+            7,
+            7
+        ]
+    },
+    {
+        "id": 25506,
+        "mb_type": 0,
+        "name": "hook it",
+        "setter": "Christian Klaassen",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5383,
+        "date_created": "2016-07-01T08:51:40.000Z",
+        "holdsets": [
+            0,
+            2
+        ],
+        "start_holds": [
+            "E6",
+            "I5"
+        ],
+        "mid_holds": [
+            "H8",
+            "C8",
+            "F11",
+            "C13",
+            "D15"
+        ],
+        "end_holds": [
+            "A18"
+        ],
+        "avg_user_grade": 4.9833,
+        "sandbag_score": -0.01956947162426559,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            311,
+            4912,
+            123,
+            35,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.3,
+        "user_stars_breakdown": [
+            64,
+            121,
+            69,
+            309,
+            2139,
+            2678
+        ],
+        "avg_user_attempts": 1.61,
+        "user_attempts_breakdown": [
+            66,
+            16,
+            9,
+            9
+        ]
+    },
+    {
+        "id": 21921,
+        "mb_type": 0,
+        "name": "Tess Wide",
+        "setter": "Ben Moon",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 13030,
+        "date_created": "2016-05-01T09:06:07.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "C5",
+            "E6"
+        ],
+        "mid_holds": [
+            "E8",
+            "H10",
+            "C13",
+            "D15"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9741,
+        "sandbag_score": -0.20289855072463503,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            2,
+            922,
+            11662,
+            349,
+            94,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            3,
+            0
+        ],
+        "avg_user_stars": 4.296,
+        "user_stars_breakdown": [
+            369,
+            205,
+            152,
+            607,
+            4838,
+            6856
+        ],
+        "avg_user_attempts": 1.818,
+        "user_attempts_breakdown": [
+            57,
+            17,
+            11,
+            14
+        ]
+    },
+    {
+        "id": 306062,
+        "mb_type": 0,
+        "name": "B.O.B. 2",
+        "setter": "Randall Baum",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6264,
+        "date_created": "2017-11-02T21:19:05.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "A5"
+        ],
+        "mid_holds": [
+            "A9",
+            "C13",
+            "E7",
+            "F11",
+            "G15",
+            "I14"
+        ],
+        "end_holds": [
+            "K18"
+        ],
+        "avg_user_grade": 5.1274,
+        "sandbag_score": 1.332099907493065,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            165,
+            5411,
+            453,
+            221,
+            12,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.318,
+        "user_stars_breakdown": [
+            86,
+            160,
+            94,
+            295,
+            2326,
+            3297
+        ],
+        "avg_user_attempts": 1.911,
+        "user_attempts_breakdown": [
+            55,
+            17,
+            12,
+            17
+        ]
+    },
+    {
+        "id": 335124,
+        "mb_type": 0,
+        "name": "BASTION",
+        "setter": "Kilgour22",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 3878,
+        "date_created": "2019-01-17T15:14:52.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "H5",
+            "J5"
+        ],
+        "mid_holds": [
+            "E8",
+            "F11",
+            "B12",
+            "E12",
+            "B15",
+            "G17",
+            "E16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 5.0368,
+        "sandbag_score": 0.5466540999057479,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            198,
+            3419,
+            199,
+            62,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.232,
+        "user_stars_breakdown": [
+            9,
+            48,
+            148,
+            578,
+            1144,
+            1954
+        ],
+        "avg_user_attempts": 1.52,
+        "user_attempts_breakdown": [
+            70,
+            15,
+            8,
+            7
+        ]
+    },
+    {
+        "id": 337544,
+        "mb_type": 0,
+        "name": "MOONWARS MILLENNIUMFALCON",
+        "setter": "Stefano Ghisolfi",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5314,
+        "date_created": "2019-02-12T15:28:34.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "K5",
+            "J5"
+        ],
+        "mid_holds": [
+            "G6",
+            "H8",
+            "B7",
+            "E10",
+            "E12",
+            "A14",
+            "E15"
+        ],
+        "end_holds": [
+            "G18"
+        ],
+        "avg_user_grade": 5.0446,
+        "sandbag_score": 0.45889101338431715,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            245,
+            4723,
+            256,
+            80,
+            7,
+            3,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.126,
+        "user_stars_breakdown": [
+            19,
+            178,
+            198,
+            569,
+            2106,
+            2246
+        ],
+        "avg_user_attempts": 1.94,
+        "user_attempts_breakdown": [
+            53,
+            17,
+            13,
+            17
+        ]
+    },
+    {
+        "id": 306776,
+        "mb_type": 0,
+        "name": "1817",
+        "setter": "Randall Baum",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5761,
+        "date_created": "2017-11-14T21:14:55.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "H5",
+            "K5"
+        ],
+        "mid_holds": [
+            "B16",
+            "E11",
+            "E13",
+            "F7",
+            "J10"
+        ],
+        "end_holds": [
+            "A18"
+        ],
+        "avg_user_grade": 5.1166,
+        "sandbag_score": 1.2360594795539015,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            171,
+            4996,
+            384,
+            199,
+            8,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.276,
+        "user_stars_breakdown": [
+            102,
+            148,
+            90,
+            299,
+            2199,
+            2918
+        ],
+        "avg_user_attempts": 1.95,
+        "user_attempts_breakdown": [
+            53,
+            17,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 20473,
+        "mb_type": 0,
+        "name": "SALTEDBLOCKS 2",
+        "setter": "Martin Blizi",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 4690,
+        "date_created": "2016-04-08T17:39:48.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "F14",
+            "F7",
+            "I11"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.9587,
+        "sandbag_score": 0.1061410159211551,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            5,
+            951,
+            3127,
+            477,
+            117,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.365,
+        "user_stars_breakdown": [
+            74,
+            105,
+            69,
+            208,
+            1566,
+            2668
+        ],
+        "avg_user_attempts": 1.848,
+        "user_attempts_breakdown": [
+            58,
+            14,
+            11,
+            16
+        ]
+    },
+    {
+        "id": 353103,
+        "mb_type": 0,
+        "name": "VISIONARY",
+        "setter": "Dalia Antebi-Lerman",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 3468,
+        "date_created": "2019-10-03T21:16:27.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "I5",
+            "K5"
+        ],
+        "mid_holds": [
+            "J8",
+            "I10",
+            "C9",
+            "E12",
+            "E15"
+        ],
+        "end_holds": [
+            "B18"
+        ],
+        "avg_user_grade": 4.9432,
+        "sandbag_score": -0.32863849765258024,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            366,
+            2986,
+            89,
+            23,
+            4,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.309,
+        "user_stars_breakdown": [
+            4,
+            26,
+            74,
+            475,
+            1102,
+            1790
+        ],
+        "avg_user_attempts": 1.455,
+        "user_attempts_breakdown": [
+            74,
+            14,
+            7,
+            6
+        ]
+    },
+    {
+        "id": 341768,
+        "mb_type": 0,
+        "name": "HORSESHOE",
+        "setter": "Ravioli Biceps",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5479,
+        "date_created": "2019-04-11T00:20:54.000Z",
+        "holdsets": [
+            2
+        ],
+        "start_holds": [
+            "J5"
+        ],
+        "mid_holds": [
+            "J7",
+            "H10",
+            "G14",
+            "G17"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.0788,
+        "sandbag_score": 0.9322033898305104,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            205,
+            4835,
+            282,
+            136,
+            19,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.181,
+        "user_stars_breakdown": [
+            13,
+            153,
+            150,
+            415,
+            2533,
+            2216
+        ],
+        "avg_user_attempts": 2.01,
+        "user_attempts_breakdown": [
+            50,
+            18,
+            13,
+            19
+        ]
+    },
+    {
+        "id": 320533,
+        "mb_type": 0,
+        "name": "WINKYLANDIA",
+        "setter": "Nicole Belletti",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 10947,
+        "date_created": "2018-06-05T19:03:10.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "J8",
+            "I10",
+            "E12",
+            "H14",
+            "E15"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9491,
+        "sandbag_score": -0.39408866995073843,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            779,
+            9993,
+            152,
+            25,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.306,
+        "user_stars_breakdown": [
+            67,
+            99,
+            236,
+            755,
+            4652,
+            5142
+        ],
+        "avg_user_attempts": 1.42,
+        "user_attempts_breakdown": [
+            75,
+            13,
+            7,
+            5
+        ]
+    },
+    {
+        "id": 25652,
+        "mb_type": 0,
+        "name": "Drop dead tenryu",
+        "setter": "Shiro Hosojima",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 18999,
+        "date_created": "2016-07-03T09:52:02.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "G8",
+            "C10",
+            "G13",
+            "G17"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 4.9296,
+        "sandbag_score": -0.5893536121673026,
+        "user_grade_breakdown": [
+            0,
+            0,
+            1,
+            0,
+            1889,
+            16665,
+            354,
+            87,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.207,
+        "user_stars_breakdown": [
+            737,
+            349,
+            246,
+            907,
+            7427,
+            9322
+        ],
+        "avg_user_attempts": 1.72,
+        "user_attempts_breakdown": [
+            62,
+            16,
+            10,
+            12
+        ]
+    },
+    {
+        "id": 331622,
+        "mb_type": 0,
+        "name": "BOTTOM LINE",
+        "setter": "Ravioli Biceps",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 5723,
+        "date_created": "2018-12-04T01:26:57.000Z",
+        "holdsets": [
+            1,
+            2
+        ],
+        "start_holds": [
+            "G4",
+            "K5"
+        ],
+        "mid_holds": [
+            "G9",
+            "H10",
+            "C13",
+            "D15"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.0697,
+        "sandbag_score": 0.7877041306436094,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            169,
+            5144,
+            280,
+            128,
+            2,
+            2,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.238,
+        "user_stars_breakdown": [
+            13,
+            124,
+            160,
+            416,
+            2488,
+            2523
+        ],
+        "avg_user_attempts": 2.01,
+        "user_attempts_breakdown": [
+            49,
+            19,
+            14,
+            18
+        ]
+    },
+    {
+        "id": 314508,
+        "mb_type": 0,
+        "name": "BZ - HYPERION",
+        "setter": "Thomas Watts",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6909,
+        "date_created": "2018-01-31T20:30:08.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "J8",
+            "I11",
+            "E11",
+            "D12",
+            "B8",
+            "B16",
+            "C14"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.068,
+        "sandbag_score": 0.8058252427184431,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            153,
+            6267,
+            375,
+            112,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.306,
+        "user_stars_breakdown": [
+            17,
+            131,
+            120,
+            424,
+            2981,
+            3236
+        ],
+        "avg_user_attempts": 1.91,
+        "user_attempts_breakdown": [
+            55,
+            16,
+            12,
+            17
+        ]
+    },
+    {
+        "id": 178758,
+        "mb_type": 0,
+        "name": "Full Moon Party",
+        "setter": "Kyle Knapp",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 16619,
+        "date_created": "2017-05-07T14:40:52.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "J8",
+            "H11",
+            "I13",
+            "E15",
+            "D17"
+        ],
+        "end_holds": [
+            "B18"
+        ],
+        "avg_user_grade": 4.9783,
+        "sandbag_score": -0.1257253384912982,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            1120,
+            14899,
+            465,
+            133,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.299,
+        "user_stars_breakdown": [
+            518,
+            252,
+            207,
+            737,
+            5941,
+            8953
+        ],
+        "avg_user_attempts": 1.71,
+        "user_attempts_breakdown": [
+            63,
+            15,
+            10,
+            12
+        ]
+    },
+    {
+        "id": 172010,
+        "mb_type": 0,
+        "name": "MOONING",
+        "setter": "levi jackson",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6668,
+        "date_created": "2017-04-27T15:32:27.000Z",
+        "holdsets": [
+            0,
+            1,
+            2
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "A9",
+            "E7",
+            "E12",
+            "F14",
+            "G17",
+            "K12"
+        ],
+        "end_holds": [
+            "D18"
+        ],
+        "avg_user_grade": 5.0621,
+        "sandbag_score": 0.6820365033621556,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            236,
+            5955,
+            331,
+            138,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.316,
+        "user_stars_breakdown": [
+            85,
+            186,
+            109,
+            325,
+            2413,
+            3547
+        ],
+        "avg_user_attempts": 1.881,
+        "user_attempts_breakdown": [
+            55,
+            18,
+            13,
+            15
+        ]
+    },
+    {
+        "id": 307834,
+        "mb_type": 0,
+        "name": "OVN",
+        "setter": "J\u00f8rgen Bryn Henriksen",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 9777,
+        "date_created": "2017-12-03T20:19:58.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "J9",
+            "F14",
+            "J8",
+            "F10",
+            "I16"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 5.0352,
+        "sandbag_score": 0.4117647058823515,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            342,
+            8923,
+            366,
+            137,
+            10,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "avg_user_stars": 4.347,
+        "user_stars_breakdown": [
+            137,
+            157,
+            118,
+            465,
+            3789,
+            5107
+        ],
+        "avg_user_attempts": 1.78,
+        "user_attempts_breakdown": [
+            58,
+            18,
+            12,
+            12
+        ]
+    },
+    {
+        "id": 25043,
+        "mb_type": 0,
+        "name": "SLIGHTLY SKEWED",
+        "setter": "Lucas Murray",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6374,
+        "date_created": "2016-06-26T20:59:35.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "K5"
+        ],
+        "mid_holds": [
+            "G13",
+            "I16",
+            "J8",
+            "K11"
+        ],
+        "end_holds": [
+            "E18"
+        ],
+        "avg_user_grade": 4.9992,
+        "sandbag_score": 0.07640878701050902,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            413,
+            5671,
+            206,
+            74,
+            7,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.204,
+        "user_stars_breakdown": [
+            86,
+            263,
+            116,
+            371,
+            2494,
+            3038
+        ],
+        "avg_user_attempts": 1.71,
+        "user_attempts_breakdown": [
+            63,
+            15,
+            10,
+            12
+        ]
+    },
+    {
+        "id": 90000,
+        "mb_type": 0,
+        "name": "SISU",
+        "setter": "edu moya",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6374,
+        "date_created": "2016-06-26T20:59:35.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "F5"
+        ],
+        "mid_holds": [
+            "G9",
+            "C10",
+            "C13",
+            "D17",
+            "E16"
+        ],
+        "end_holds": [
+            "I18"
+        ],
+        "avg_user_grade": 4.9992,
+        "sandbag_score": 0.05976095617530319,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            413,
+            5671,
+            206,
+            74,
+            7,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.204,
+        "user_stars_breakdown": [
+            86,
+            263,
+            116,
+            371,
+            2494,
+            3038
+        ],
+        "avg_user_attempts": 1.71,
+        "user_attempts_breakdown": [
+            63,
+            15,
+            10,
+            12
+        ],
+        "new_sandbag_score": 0.05976095617530319
+    },
+    {
+        "id": 90001,
+        "mb_type": 0,
+        "name": "coconut milkshake",
+        "setter": "hadi",
+        "grade": 5,
+        "upgraded": false,
+        "downgraded": false,
+        "repeats": 6374,
+        "date_created": "2016-06-26T20:59:35.000Z",
+        "holdsets": [
+            1
+        ],
+        "start_holds": [
+            "A5",
+            "B3"
+        ],
+        "mid_holds": [
+            "B8",
+            "C10",
+            "B11",
+            "G13",
+            "E15"
+        ],
+        "end_holds": [
+            "E18",
+            "B18"
+        ],
+        "avg_user_grade": 4.9992,
+        "sandbag_score": -0.16464471403812908,
+        "user_grade_breakdown": [
+            0,
+            0,
+            0,
+            0,
+            413,
+            5671,
+            206,
+            74,
+            7,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        "avg_user_stars": 4.204,
+        "user_stars_breakdown": [
+            86,
+            263,
+            116,
+            371,
+            2494,
+            3038
+        ],
+        "avg_user_attempts": 1.71,
+        "user_attempts_breakdown": [
+            63,
+            15,
+            10,
+            12
+        ],
+        "new_sandbag_score": -0.16464471403812908
+    }
+]

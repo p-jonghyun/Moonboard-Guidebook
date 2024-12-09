@@ -77,7 +77,7 @@ export default function App() {
   // Data fetching and initialization
   useEffect(() => {
     setLoadingData(true);
-    fetch('/benchmarks.json')
+    fetch('/new_benchmarks.json')
       .then(response => response.json())
       .then(benchmarks => {
         const filteredData = benchmarks
